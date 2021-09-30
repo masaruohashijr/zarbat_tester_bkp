@@ -1,0 +1,22 @@
+2021/09/29 21:46:21 DEBUG: ************************************************
+2021/09/29 21:46:21 DEBUG: *** Config: config/config.ini
+2021/09/29 21:46:21 DEBUG: *** Number of Tries: 3
+2021/09/29 21:46:21 DEBUG: *** Log: log/zarbat.log
+2021/09/29 21:46:21 DEBUG: *** Logging Level: info
+2021/09/29 21:46:21 DEBUG: *** Features: [listusages]
+2021/09/29 21:46:21 DEBUG: ************************************************
+2021/09/29 21:49:05 DEBUG: ************************************************
+2021/09/29 21:49:05 DEBUG: *** Config: config/config.ini
+2021/09/29 21:49:05 DEBUG: *** Number of Tries: 3
+2021/09/29 21:49:05 DEBUG: *** Log: log/zarbat.log
+2021/09/29 21:49:05 DEBUG: *** Logging Level: info
+2021/09/29 21:49:05 DEBUG: *** Features: [listusages]
+2021/09/29 21:49:05 DEBUG: ************************************************
+2021/09/29 21:49:51 DEBUG: ************************************************
+2021/09/29 21:49:51 DEBUG: *** Config: config/config.ini
+2021/09/29 21:49:51 DEBUG: *** Number of Tries: 3
+2021/09/29 21:49:51 DEBUG: *** Log: log/zarbat.log
+2021/09/29 21:49:51 DEBUG: *** Logging Level: info
+2021/09/29 21:49:51 DEBUG: *** Features: [listusages]
+2021/09/29 21:49:51 DEBUG: ************************************************
+2021/09/29 21:49:51 DEBUG: Server running

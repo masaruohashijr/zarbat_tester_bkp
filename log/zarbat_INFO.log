@@ -1,0 +1,25 @@
+2021/09/29 21:46:21 INFO: ****************************************
+2021/09/29 21:46:21 INFO: START OF TEST SUITE
+2021/09/29 21:46:21 INFO: Config: config/config.ini
+2021/09/29 21:46:21 INFO: Number of Tries: 3
+2021/09/29 21:46:21 INFO: Log: log/zarbat.log
+2021/09/29 21:46:21 INFO: Tests: [listusages]
+2021/09/29 21:46:21 INFO: .........................................
+2021/09/29 21:49:05 INFO: ****************************************
+2021/09/29 21:49:05 INFO: START OF TEST SUITE
+2021/09/29 21:49:05 INFO: Config: config/config.ini
+2021/09/29 21:49:05 INFO: Number of Tries: 3
+2021/09/29 21:49:05 INFO: Log: log/zarbat.log
+2021/09/29 21:49:05 INFO: Tests: [listusages]
+2021/09/29 21:49:05 INFO: .........................................
+2021/09/29 21:49:51 INFO: ****************************************
+2021/09/29 21:49:51 INFO: START OF TEST SUITE
+2021/09/29 21:49:51 INFO: Config: config/config.ini
+2021/09/29 21:49:51 INFO: Number of Tries: 3
+2021/09/29 21:49:51 INFO: Log: log/zarbat.log
+2021/09/29 21:49:51 INFO: Tests: [listusages]
+2021/09/29 21:49:51 INFO: .........................................
+2021/09/29 21:49:55 INFO: * Feature/Scenario: LISTUSAGES - Status: OK
+2021/09/29 21:50:00 INFO: Passed  1
+2021/09/29 21:50:00 INFO: Failed  0
+2021/09/29 21:50:00 INFO: ...END OF TEST SUITE
