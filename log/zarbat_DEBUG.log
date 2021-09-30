@@ -20,3 +20,35 @@
 2021/09/29 21:49:51 DEBUG: *** Features: [listusages]
 2021/09/29 21:49:51 DEBUG: ************************************************
 2021/09/29 21:49:51 DEBUG: Server running
+2021/09/29 22:02:30 DEBUG: ************************************************
+2021/09/29 22:02:30 DEBUG: *** Config: config/config.ini
+2021/09/29 22:02:30 DEBUG: *** Number of Tries: 3
+2021/09/29 22:02:30 DEBUG: *** Log: log/zarbat.log
+2021/09/29 22:02:30 DEBUG: *** Logging Level: info
+2021/09/29 22:02:30 DEBUG: *** Features: [listusages]
+2021/09/29 22:02:30 DEBUG: ************************************************
+2021/09/29 22:02:30 DEBUG: Server running
+2021/09/29 22:02:36 DEBUG: ******************************** Callback START
+2021/09/29 22:02:36 DEBUG: Call Status canceled.
+
+2021/09/29 22:02:36 DEBUG: Call Sid CA777c3e320f09ee48ea2042ab9bb1f7b8.
+
+2021/09/29 22:02:36 DEBUG: Call Sid Context CA777c3e3269449904463242629614b659.
+
+2021/09/29 22:02:36 DEBUG: ******************************** Callback END
+2021/09/29 22:02:38 DEBUG: ******************************** Callback START
+2021/09/29 22:02:38 DEBUG: Call Status canceled.
+
+2021/09/29 22:02:38 DEBUG: Call Sid CA777c3e32e9f17a0ade3d4ee8afa42b73.
+
+2021/09/29 22:02:38 DEBUG: Call Sid Context CA777c3e3269449904463242629614b659.
+
+2021/09/29 22:02:38 DEBUG: ******************************** Callback END
+2021/09/29 22:25:45 DEBUG: ************************************************
+2021/09/29 22:25:45 DEBUG: *** Config: config/config.ini
+2021/09/29 22:25:45 DEBUG: *** Number of Tries: 3
+2021/09/29 22:25:45 DEBUG: *** Log: log/zarbat.log
+2021/09/29 22:25:45 DEBUG: *** Logging Level: info
+2021/09/29 22:25:45 DEBUG: *** Features: [listusages]
+2021/09/29 22:25:45 DEBUG: ************************************************
+2021/09/29 22:25:45 DEBUG: Server running
